@@ -1,0 +1,199 @@
+#header{
+    
+   
+}
+
+#text-name{
+    
+    
+    font-family: arial,sans-serif;
+    font-size: 11pt;
+    color: darkgrey;
+    margin-left: 700px;
+    line-height: 0px;
+    text-decoration: none;
+    
+    
+}
+
+#text-gmail{
+    
+    font-size: 11pt;
+    
+    color: #000;
+    
+   
+    margin-top: 0px;
+    margin-left: 20px;
+    text-decoration: none;
+    opacity: .75;
+    font-family: arial,sans-serif;
+    
+    
+}
+
+#text-images{
+    font-family:serif;
+    font-size: 11pt;
+     color: #000;
+    
+    margin-left: 20px;
+    text-decoration: none;
+    opacity: .75;
+    font-family: arial,sans-serif;
+    
+    
+}
+
+#icon-notification{
+    
+    
+    width: 20px;
+    height: 20px;
+    
+    
+    
+}
+
+
+#google-pic{
+    
+    background-image: url(../icons/googlelogo_color_272x92dp.png);
+    background-repeat: repeat;
+    background-position: center;
+    
+    
+    
+}
+
+#google-microphone{
+    
+    
+    background-image: url(../icons/Google_microphone_logo.png);
+    
+}
+
+
+#footer{
+    
+    width:1150px;
+    height:15px;
+    margin-top: 20px;
+   
+    
+    
+   
+}
+
+#text-advertisment{
+    
+    font-size: 11pt;
+    
+    color: #666;
+    font-family: arial,sans-serif;
+    
+    margin-top: 100px;
+    margin-left: 20px;
+    
+}
+
+#text-business{
+    
+    font-size: 11pt;
+    
+    color: #666;
+    font-family: arial,sans-serif;
+    
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+#text-about{
+    
+    font-size: 11pt;
+    
+    color: #666;
+    font-family: arial,sans-serif;
+    
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+#text-privacy{
+    
+    font-size: 11pt;
+    
+    color: #666;
+    font-family: arial,sans-serif;
+    
+    margin-top: 0px;
+    margin-left: 430px;
+    
+}
+
+#text-terms{
+    
+    font-size: 11pt;
+    
+    color: #666;
+    font-family: arial,sans-serif;
+    
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+#text-setting{
+    
+    font-size: 11pt;
+    
+    color: #666;
+    font-family: arial,sans-serif;
+    
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+#text-use-google-com-pk
+
+{
+    font-size: 11pt;
+    
+    color: #666;
+    font-family: arial,sans-serif;
+    
+    margin-top: 0px;
+     margin-left: 20px;
+    
+}
+
+#mic{
+    width:50%;
+    line-height:300%; 
+    background-image:url(../google-copy-github/Google_microphone_logo.png); 
+    background-size: 40px; 
+    background-repeat: no-repeat;
+    object-position: left;
+    
+   }
+
+
+
+#urdu{
+    
+        display: inline-block;
+        line-height: 110px;
+        font-size: small;
+        text-align: -webkit-center;
+        font-family: arial,sans-serif;
+        color: #222;
+    
+    
+    
+    
+    
+}
+
